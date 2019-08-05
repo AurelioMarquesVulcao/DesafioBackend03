@@ -46,8 +46,6 @@ def crawler():
 
 crawler()
 
-# create a json file 
-file = open('infogobo_auto_sport.json', 'wb')
-data_string = json.dumps(feed, indent=4)
-file.write(data_string.encode())
-file.close()
+# create a json file
+with open('infogobo_auto_sport.json', 'w') as f:
+    json.dump(feed, fp=f, indent=4, ensure_ascii=False)
