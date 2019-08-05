@@ -1,2 +1,0 @@
-# Infoglobo
-Desafio
