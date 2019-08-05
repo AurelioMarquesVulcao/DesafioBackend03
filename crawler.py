@@ -2,7 +2,7 @@ import feedparser
 import json
 from bs4 import BeautifulSoup
 
-
+# Search all html content off
 url = feedparser.parse('https://revistaautoesporte.globo.com/rss/ultimas/feed.xml')
 url = url['entries']
 
@@ -12,13 +12,13 @@ feed = {
 
 
 def crawler():
-
+    # will fetch all the titles and links of the articles
     for i in range(0, len(url)):
         data = {
             'item': dict(title={}, link={}, description=[])}
         data['item']['title'] = url[i]['title']
         data['item']['link'] = url[i]['link']
-        # ---comenta
+        # Search content of materials
         soup = BeautifulSoup(url[i]['summary'], 'html.parser')
         for tag in soup.find_all(True):
             if tag.name == 'img':
@@ -46,8 +46,8 @@ def crawler():
 
 crawler()
 
-# vai criar um arquivo Json--------------------
+# create a json file 
 file = open('infogobo_auto_sport.json', 'wb')
 data_string = json.dumps(feed, indent=4)
-file.write(data_string.encode('UTF-8'))
+file.write(data_string.encode())
 file.close()
