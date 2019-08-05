@@ -20,7 +20,6 @@ def crawler():
         data['item']['link'] = url[i]['link']
         # Search content of materials
         soup = BeautifulSoup(url[i]['summary'], 'html.parser')
-        soup.replace_with('\n', )
         for tag in soup.find_all(True):
             if tag.name == 'img':
                 data['item']['description'].append({
