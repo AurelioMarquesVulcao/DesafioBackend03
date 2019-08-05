@@ -20,6 +20,7 @@ def crawler():
         data['item']['link'] = url[i]['link']
         # Search content of materials
         soup = BeautifulSoup(url[i]['summary'], 'html.parser')
+        soup.replace_with('\n', )
         for tag in soup.find_all(True):
             if tag.name == 'img':
                 data['item']['description'].append({
@@ -36,7 +37,7 @@ def crawler():
             if tag.name == 'p':
                 data['item']['description'].append({
                     'type': 'text',
-                    'content': tag.get_text()
+                    'content': (tag.get_text())
                 })
 
             else:
@@ -46,8 +47,6 @@ def crawler():
 
 crawler()
 
-# create a json file 
-file = open('infogobo_auto_sport.json', 'wb')
-data_string = json.dumps(feed, indent=4)
-file.write(data_string.encode())
-file.close()
+# create a json file
+with open('infogobo_auto_sport.json', 'w') as f:
+    json.dump(feed, fp=f, indent=4, ensure_ascii=False)
