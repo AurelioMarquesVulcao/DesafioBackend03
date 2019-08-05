@@ -1,0 +1,11 @@
+Python 3.7
+
+beautifulsoup4 -- 4.4.0
+
+feedparser -- 5.2.1
+
+json --
+
+unittest --
+
+coverage -- 4.5.x

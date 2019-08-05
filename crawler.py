@@ -45,12 +45,9 @@ def crawler():
 
 
 crawler()
-print(feed)
-print(feed['feed'][0]['item']['link'])
-print(feed['feed'][0]['item']['description'][0]['content'])
 
 # vai criar um arquivo Json--------------------
 file = open('infogobo_auto_sport.json', 'wb')
 data_string = json.dumps(feed, indent=4)
-file.write(data_string.encode('latin1'))
+file.write(data_string.encode('UTF-8'))
 file.close()
