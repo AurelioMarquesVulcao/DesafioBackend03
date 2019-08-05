@@ -1,8 +1,8 @@
 # Infoglobo
-<h1> Desfio Backend Infoglobo
-<p> Create a crawler that reads this feed <a>feed https://revistaautoesporte.globo.com/rss/ultimas/feed.xml and return a Json
-<h2> How to start testing
-<p>A test report has been created by simply opening the index.html file in the htmlcov folder.
+<h1>Infoglobo</h1>
+<p> Create a crawler that reads this feed <a>feed https://revistaautoesporte.globo.com/rss/ultimas/feed.xml and return a Json</p>
+<h2> How to start testing</h2>
+<p>A test report has been created by simply opening the index.html file in the htmlcov folder.</p>
 
 In the file tests.py was placed 9 unit tests, and the strings, expected for each of the tests.
 
