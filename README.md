@@ -1,6 +1,6 @@
+#Infoglobo
 Infoglobo
-Desfio Backend Infoglobo
-Create a crawler that reads this feed feed https://revistaautoesporte.globo.com/rss/ultimas/feed.xml and return a Json
+Create a crawler that reads this feed https://revistaautoesporte.globo.com/rss/ultimas/feed.xml and return a Json
 
 How to start testing
 A test report has been created by simply opening the index.html file in the htmlcov folder.
