@@ -20,6 +20,7 @@ Were tested:<br>
 
 In your terminal open the application folder.<br>
 follow the instructions:<br>
-coverage run tests.py __ starts the test file.<br>
-coverage html __ will create an html report that will be saved in the folder, htmlcov.
+coverage run tests.py &#10140; starts the test file.<br>
+coverage g report -m &#10140; will create and display the test report.<br>
+coverage html &#10140; will create an html report that will be saved in the folder, htmlcov.
 
