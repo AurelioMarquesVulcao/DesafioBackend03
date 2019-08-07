@@ -7,7 +7,7 @@ Create a crawler that reads this feed https://revistaautoesporte.globo.com/rss/u
 <h4>How to start testing<h4>
 <li>A test report has been created by simply opening the index.html file in the htmlcov folder.<br>
 
-In the file tests.py was placed 9 unit tests, and the strings, expected for each of the tests.<br>
+A test report has been created, follow the link to read. https://vulcaotech.com/Infoglobo_tests/<br>
 
 To repeat the tests just insert new strings.<br>
 Were tested:<br>
@@ -26,7 +26,8 @@ coverage html &#10140; will create an html report that will be saved in the fold
 
 <li> Expected result in json file:
 
-````{
+````
+{
     "feed": [
         {
             "item": {
