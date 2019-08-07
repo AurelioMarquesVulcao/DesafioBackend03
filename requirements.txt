@@ -1,5 +1,7 @@
-beautifulsoup4==4.4.0
+beautifulsoup4-4.4.0
 
-feedparser==5.2.1
+feedparser-5.2.1
 
-coverage==4.5.x
+coverage-4.5.x
+
+django-2.2.4

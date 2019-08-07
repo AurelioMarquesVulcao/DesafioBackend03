@@ -13,7 +13,7 @@ feed = {
 
 def crawler():
     # will fetch all the titles and links of the articles
-    for i in range(0, len(url)):
+    for i in range(len(url)):
         data = {
             'item': dict(title={}, link={}, description=[])}
         data['item']['title'] = url[i]['title']
@@ -34,14 +34,15 @@ def crawler():
                 })
 
             if tag.name == 'p':
+                # Remove unwanted characters with '\ n'
                 a = (str(tag.get_text())).strip('\n\t\xa0')
                 if len(a) <= 0:
                     continue
                 if len(a) >= 1:
                     data['item']['description'].append({
-                    'type': 'text',
-                    'content': a
-                })
+                        'type': 'text',
+                        'content': a
+                    })
         feed['feed'].append(data)
 
 
