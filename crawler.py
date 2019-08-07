@@ -36,7 +36,7 @@ def crawler():
             if tag.name == 'p':
                 data['item']['description'].append({
                     'type': 'text',
-                    'content': (tag.get_text())
+                    'content': (str(tag.get_text())).strip('\n\t\xa0')
                 })
 
             else:
