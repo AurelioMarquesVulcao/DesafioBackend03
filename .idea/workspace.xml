@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f282bfef-ec01-4d23-8934-0bb8bd8189a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/please_attach_to_bug_report.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawler/crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="88">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -85,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="949" />
     <option name="width" value="979" />
     <option name="height" value="1038" />
@@ -293,12 +289,12 @@
       <workItem from="1565117792629" duration="362000" />
       <workItem from="1565118210933" duration="4327000" />
       <workItem from="1565180986333" duration="4000" />
-      <workItem from="1565181115170" duration="2930000" />
+      <workItem from="1565181115170" duration="3532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180117000" />
+    <option name="totallyTimeSpent" value="180719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="949" y="0" width="979" height="1038" extended-state="0" />
@@ -462,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="88">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
