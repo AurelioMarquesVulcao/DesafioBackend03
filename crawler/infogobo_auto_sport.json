@@ -87,11 +87,35 @@
                     },
                     {
                         "type": "text",
-                        "content": "O Jeep Compass já soma 34.204 emplacamentos em 2019, perdendo apenas para o Renegade, seu irmão menor, que lidera o ranking geral dos SUVs com 38.837 unidades."
+                        "content": "O desejo da Ford com o Territory é morder uma fatia do disputado segmento onde está o Compass, que já soma 34.204 emplacamentos em 2019. O SUV da Jeep só perde para o Renegade, seu irmão menor e atual líder geral de vendas dos SUVs, com 38.837 unidades."
                     },
                     {
                         "type": "text",
                         "content": "(Colaboraram Diogo de Oliveira e André Schaun)"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2018/10/o-que-podemos-esperar-do-ford-territory.html"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2018/08/ford-revela-suv-territory-na-china.html"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/05/fim-da-linha-ford-focus-nao-e-mais-produzido-na-argentina.html"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/05/o-ford-maverick-vai-voltar-ao-brasil-mas-como-suv.html"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Acompanha tudo de Autoesporte? Agora você pode ler as edições e matérias exclusivas no Globo Mais, o app com conteúdo para todos os momentos do seu dia. Baixe agora!"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://globomais.com.br/"
                     }
                 ]
             }
