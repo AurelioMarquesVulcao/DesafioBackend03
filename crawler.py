@@ -13,7 +13,7 @@ feed = {
 
 def crawler():
     # will fetch all the titles and links of the articles
-    for i in range(0, len(url)):
+    for i in range(len(url)):
         data = {
             'item': dict(title={}, link={}, description=[])}
         data['item']['title'] = url[i]['title']
