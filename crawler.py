@@ -34,13 +34,14 @@ def crawler():
                 })
 
             if tag.name == 'p':
-                data['item']['description'].append({
+                a = (str(tag.get_text())).strip('\n\t\xa0')
+                if len(a) <= 0:
+                    continue
+                if len(a) >= 1:
+                    data['item']['description'].append({
                     'type': 'text',
-                    'content': (str(tag.get_text())).strip('\n\t\xa0')
+                    'content': a
                 })
-
-            else:
-                continue
         feed['feed'].append(data)
 
 

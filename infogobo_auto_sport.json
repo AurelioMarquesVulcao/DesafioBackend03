@@ -2,16 +2,104 @@
     "feed": [
         {
             "item": {
+                "title": "Um avião caça clássico com motor V8 de Chevrolet Corvette",
+                "link": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/08/um-aviao-caca-classico-com-motor-v8-de-chevrolet-corvette.html",
+                "description": [
+                    {
+                        "type": "image",
+                        "content": "https://s2.glbimg.com/2BaPR4aZnIqXAF4Iy8s9Z2FWvxA=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/sptifiresolo.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "content": "O Supermarine Spitfire foi a grande estrela da Batalha da Grã Bretanha, conflito da Segunda Guerra Mundial que durou de julho a outubro de 1940. Foi o primeiro racha entre os britânicos e os alemães, que massacraram a Inglaterra com bombardeios intensos. E também a primeira batalha lutada apenas por aviões."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Embora o Hawker Hurricane tenha sido vital no conflito, foi o recém-lançado e mais rápido Spitfire que ganhou a fama e era até mais reconhecido pela população no solo, talvez pelo seu desenho singular, que inclui asas com pontas elípticas. Eles foram o terror dos Messerschmitt BF 109E."
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2018/11/aviao-com-motor-de-porsche-911.html"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/06/o-novo-helicoptero-do-donald-trump-e-uma-limusine-aerea.html"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/05/o-dia-em-que-niki-lauda-provou-que-boeing-estava-errada.html"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/04/o-dia-que-porsche-levou-o-917-para-conhecer-o-concorde.html"
+                    },
+                    {
+                        "type": "text",
+                        "content": "A popularidade não desapareceu ao longo do tempo. Tanto que uma empresa britânica, batizada oportunisticamente como Supermarine, desenvolveu uma réplica moderna do Spitfire."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Como toda réplica, avião não é exatamente como o original, uma vez que a sua escala em relação ao caça chega a 90%, no máximo. É algo bem perto, o que não dá aquela impressão de aeronave amadora, por mais que seja vendido em kits para serem montados.\n\tBatizado como MK26B, o modelo maior era acompanhado do MK26 (80% do tamanho) e do MK25 (75% da escala), ambos fora de linha."
+                    },
+                    {
+                        "type": "image",
+                        "content": "https://s2.glbimg.com/-frai5IBu4_sfNAtnCQs92Ge4QE=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/v8.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Claro que a diferença de tamanho não é a única alteração. O Spitfire mirim tem motor bem diferente daqueles Rolls-Royce Merlin ou Griffo, e aposta em propulsor de automóvel. Os menores MK26 e MK25 podiam vir com o V6 3.5 da Isuzu de 253 cv, mas o MK26B carrega o mesmo LS2 V8 6.0 do antigo Corvette, não muito diferente do propulsor utilizado pelo Camaro."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Dado o menor tamanho e peso, aliviado também pela ausência de armas ou blindagem, o Spitfire não faz feio com o seu oito cilindros de 436 cv, capaz de levá-lo além dos 400 km/h.  Sem falar que faz manobras com forças que chegam a até seis gravidades. E tem autonomia de mais de 1.000 km, perfeito para patrulhar o Canal da Mancha por horas."
+                    },
+                    {
+                        "type": "image",
+                        "content": "https://s2.glbimg.com/2ZMAvl1lYgeDuHTQHhHlyhGpn7c=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/sptifire-voo.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Ainda que não consigam perseguir os Supermarines mais avançados da Segunda Guerra, com motores Rolls-Royce V12 de até 37 litros e mais de 2.300 cv e capacidade de ultrapassar os 600 km/h, as réplicas são rápidas e têm uma vantagem que o Spitfire original não tinha: injeção de gasolina. Os caças do passado ainda contavam com carburador e levavam pau do Messerschmitt, com injeção direta e capaz de fazer mergulhos vertiginosos sem medo de ficar sem combustível, enquanto o avião britânico tinha carburador e lidava com o problema de afogamento nesses manobras."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Para se aproximar do avião clássico, é possível instalar imitações dos canhões automáticos de 20 mm que lotavam as asas do original, mas nada que faça justiça ao nome do original (Cospe-fogo), felizmente."
+                    },
+                    {
+                        "type": "image",
+                        "content": "https://s2.glbimg.com/2avrzO96sWj616hT33wQfHWoBT8=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/batalha.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Em festivais como o de Velocidade de Goodwood, o Supermarine é idolatrado até hoje. Até mesmo a Ford embarcou no saudosismo no Spitfire: a rival norte-americana fez uma edição especial do Mustang com a mesma padronagem dos caças da Batalha da Grã-Bretanha para o evento britânico. É até curioso, uma vez que uma das fontes do batismo do esportivo foi justamente o caça North American P-51 Mustang, outra estrela da Segunda Guerra."
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2018/07/dez-melhores-coisas-do-festival-de-velocidade-de-goodwood-em-video.html"
+                    },
+                    {
+                        "type": "text",
+                        "content": "O V8 Chevrolet já foi utilizado por outras aeronaves, inclusive, um helicóptero: o Vertical Hummingbird, vendido como kit e lançado em 1991. Porém, o grande barato é ver um borbulhante oito cilindros embaixo do enorme “capô” de um caça clássico. Gravado em vídeo em, um Spitfire passa em rasante com um ruído grave e característico. Um verdadeiro muscle plane, por assim dizer."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Acompanha tudo de Autoesporte? Agora você pode ler as edições e matérias exclusivas no Globo Mais, o app com conteúdo para todos os momentos do seu dia. Baixe agora!"
+                    },
+                    {
+                        "type": "link",
+                        "content": "https://globomais.com.br/"
+                    }
+                ]
+            }
+        },
+        {
+            "item": {
                 "title": "Audi Q8 estreia com motor de Porsche e tem quase R$ 80 mil em opcionais",
                 "link": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/08/audi-q8-estreia-com-motor-de-porsche-e-tem-quase-r-80-mil-em-opcionais.html",
                 "description": [
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/C1k9eW3grK-eP93PkaeNsfmfb6M=/620x413/e.glbimg.com/og/ed/f/original/2018/11/07/whatsapp_image_2018-11-07_at_16.28.51.jpeg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -43,10 +131,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "O porta-malas comporta 605 litros e pode ter sua capacidade aumentada para até 1.755 litros com os assentos traseiros rebatidos. A capacidade é para cinco ocupantes."
                     },
                     {
@@ -67,19 +151,7 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Abaixo, há uma de 8,6 polegadas que serve para ajustar o sistema de ar-condicionado e para digitar o endereço no sistema GPS. Já o quadro de instrumentos é o difundido Virtual Cockpit, de 12,3\" e totalmente digital."
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -104,14 +176,6 @@
                     {
                         "type": "link",
                         "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/06/audi-q7-pega-emprestado-tecnologia-da-lamborghini-mas-vai-demorar-vir-ao-brasil.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     }
                 ]
             }
@@ -124,10 +188,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/r4o-TVcfdXzYj_TMmBlWlzSlgZM=/620x430/e.glbimg.com/og/ed/f/original/2019/08/06/depositphotos_23668151_l-2015.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -199,10 +259,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Ser ou não ser, eis a questão! Guardadas as proporções, a dúvida existencial do príncipe Hamlet, famoso personagem de Shakespeare, serve perfeitamente ao Fiat Cronos HGT. Principal novidade da linha 2020 (veja os preços), a versão apela ao visual esportivo sem oferecer mecânica à altura. É a velha receita dos esportivados, que faz modelos de baixa performance parecerem “ases do asfalto”."
                     },
                     {
@@ -215,10 +271,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "No caso do Cronos HGT, o estilo ficou até mais insinuante que no Argo homônimo. Talvez um efeito do aerofólio preto brilhante que fica destacado na ponta da tampa do porta-malas. A peça é puramente estética, mas faz um efeito bacana na traseira."
                     },
                     {
@@ -228,10 +280,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/xhS3lLjUj_FGaKUHG9fSfyrkBWs=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/cronos_hgt_amb_070.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -251,10 +299,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Mas a verdade é que falta um tempero mecânico. O problema é que a Fiat ainda não tem as especiarias na prateleira para condimentar seus carros. A montadora anunciou um grande investimento na fábrica de Betim (MG) para produzir motores turbo da família Firefly."
                     },
                     {
@@ -268,10 +312,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/81jTbpqu0LeMhTky-OQBFZEUE4A=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/cronos_hgt_vermelho_044.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -291,10 +331,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Essa entrega antecipada do torque ajuda nas acelerações e sobretudo nas retomadas. O Virtus 1.0 turbo fez o mesmo 0-100 km/h em 10 segundos, e precisou de 5,5 segundos para recuperar de 60 km/h a 100 km/h — foi um segundo mais ligeiro que o Cronos 1.8 aspirado, que cravou 6,5 segundos na prova."
                     },
                     {
@@ -311,10 +347,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Os números definitivamente não ajudam o Cronos HGT a comprovar sua virilidade. Mas há alguns predicados no sedã que certamente irão ajudá-lo a se sobressair. O estilo é um deles. Pode não andar como um esportivo, mas o visual ficou provocante por fora e por dentro."
                     },
                     {
@@ -324,10 +356,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/8ugRHE5_fj35LBHxMWZ-hNv1gQE=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/cronos_hgt_vermelho_047.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -343,10 +371,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Ao volante, o motorista mais empolgado se decepcionará com as respostas do acelerador. O câmbio automático de seis marchas faz trocas rápidas, mas não serve ao propósito de extrair desempenho. As mudanças são feitas em regimes mais amenos, talvez para ajudar no consumo, que não é dos melhores (média mista de 8,4 km/l pelo Inmetro)."
                     },
                     {
@@ -359,10 +383,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Não há sequer o famoso modo Sport para fazer o conjunto render mais. Um alento são as borboletas no volante, que ajudam quando se busca uma tocada mais forte. O ponto alto do Cronos HGT é o pacote. Há bastante conteúdo na versão, que passa a ser a mais cara."
                     },
                     {
@@ -372,10 +392,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/bLOpYVe8Ymwqo_Y8zsWA_mzLBuI=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/cronos_hgt_vermelho_039.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -402,16 +418,8 @@
                         "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/01/recall-fiat-argo-cronos-e-mobi-tem-falha-na-coluna-de-direcao.html"
                     },
                     {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
                         "type": "image",
                         "content": "https://s2.glbimg.com/Lw6Q9yFK6QA8Is8uldr8cT1Q8_8=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/cronos_hgt_amb_024.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -456,14 +464,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/9L7XB-GhJt425oOxsJomMwuROdE=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/cronos_hgt_amb_014.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -543,10 +543,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A Audi apresentou o e-tron scooter, uma mistura de skate e patinete elétrico para auxiliar na mobilidade urbana. O veículo será comercializado no final de 2020 na Europa pela “bagatela” de 2.000 euros – quase R$ 9 mil. É o suficiente para comprar um Honda Elite 125 no Brasil, uma motoneta de R$ 8.500, ainda que não tenham a mesma proposta (apenas o nome Scooter é comum)."
                     },
                     {
@@ -567,10 +563,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Para operar o e-tron scooter, o usuário utiliza seu peso para ir controlando a direção do veículo com em um skate, já que são quatro, e não duas, rodas. Como apenas uma mão é necessária para o apoio na manopla na qual se controlam acelerações e frenagens, a outra pode ficar livre para sinalizar e pedir passagem para pedestres ou motoristas, por exemplo."
                     },
                     {
@@ -587,31 +579,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Entre as características do patinete estão farol, luzes de condução diurna, lanterna e brake light de LED, display que mostra o nível da bateria, bluetooth para ajustes e bloqueio do veículo contra roubo e assoalho de madeira ou carbono."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/e1a-HhoDhbot4n-pIO_3vboh7Bg=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/a1910304_large.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -639,10 +611,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Proprietários do Jetta, Golf e Tiguan Allspace estão convocados para recall. E o problema é sério: a possibilidade de quebra das molas da suspensão traseira. A explicação é curiosa: o uso de matéria-prima dos componentes não atende ao exigido pelo produto."
                     },
                     {
@@ -656,10 +624,6 @@
                     {
                         "type": "link",
                         "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/06/qual-anda-mais-volkswagen-jetta-gli-ou-o-antigo-highline.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -687,10 +651,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A Honda registrou no Instituto Nacional da Propriedade Industrial (INPI) o Pilot, seu SUV topo de linha. Capaz de levar até oito passageiros, o modelo entraria no mercado para brigar com Toyota SW4, Chevrolet Trailblazer e Mitsubishi Pajero Sport (confira as avaliações dos dois modelos de marcas japonesas abaixo)."
                     },
                     {
@@ -703,19 +663,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Os preços variam de US$ 31.550 a US$ 49.620 — ou seja, de R$ 124,6 mil a R$ 196 mil sem impostos na conversão direta. Por aqui, chegaria na faixa de R$ 250 mil (ou pouco acima disso), certamente importado em uma das versões mais completas."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/zAE88dSZ_MFuRaXiONYNsr35eJA=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/honda-pilot-2019-1600-1d.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -727,19 +679,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Estão inclusos faróis de LED, rodas de 20 polegadas, câmera de ré, assistente de arranque em subidas, partida por botão e remota, central multimídia compatível com Apple Carplay e Android Auto, monitoramento de ponto cego com alerta de tráfego cruzado, bancos dianteiros com aquecimento, sistema de som premium de 590 watts e 10 alto-falantes, ar-condicionado de três zonas, acabamento interno de couro, GPS, acesso hands free ao porta-malas elétrico e sistema de entretenimento traseiro com Blu Ray."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/xO-XY8o3qzKpZxH_PyTwQdX6Ym4=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/honda-pilot-2019-1600-41.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -764,10 +708,6 @@
                     {
                         "type": "link",
                         "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/07/video-mitsubishi-pajero-sport-apela-ao-conforto-e-tecnologia-para-desbancar-o-toyota-sw4.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     }
                 ]
             }
@@ -780,10 +720,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/Drid6s_npIMwV4_8ZMlkpkZguqg=/620x413/e.glbimg.com/og/ed/f/original/2019/08/05/duster-gopro-2020.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -803,19 +739,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Além disso, o modelo recebe alguns acessórios para deixar o visual mais aventureiro, como barras pretas no teto, kit alargador de para-lamas, proteção do para-choque dianteiro com faróis de longo alcance e adesivo GoPro sob os retrovisores. Na versão 4x4, as rodas passam a ter pintura preta."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/v25UlXMA_4Yzpoqr9EVi3LKaHEo=/620x413/e.glbimg.com/og/ed/f/original/2019/08/05/renault-duster-gopro_gps.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -840,10 +768,6 @@
                     {
                         "type": "link",
                         "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/07/renault-hora-errada-para-alaskan-e-muito-cedo-para-falar-em-arkana.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     }
                 ]
             }
@@ -859,10 +783,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Peguei a MT-09 na concessionária da Barra, andei uns três quarteirões e já levei uma multa. Se toda a avaliação desta Yamaha pudesse ser resumida em um parágrafo, este aqui já daria a perfeita noção de como se comporta a moto e o que o piloto deve fazer: a MT-09 acelera de maneira absolutamente impressionante, anda mais que notícia ruim e pede muito cuidado com a velocidade. Muito mesmo!"
                     },
                     {
@@ -872,10 +792,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/4_mtdUsPRu-V3QBKV4z2XJHybPY=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/img_7482.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -890,32 +806,16 @@
                         "content": "https://s2.glbimg.com/MmORxe7k1pCR3SF2vEpfeZVXS2s=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/img_7465.jpg"
                     },
                     {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
                         "type": "image",
                         "content": "https://s2.glbimg.com/JzOupUovh3KnynTW6qv0iSeYHss=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/img_7487.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
                         "content": "De toda forma, o estilão futurista tem sua graça e a garotada mais nova vai preferir, com certeza, a MT-09 (ou a Z 1000). Os quatro faróis redondos são pequeninos e ficam abrigados em uma moldura que parece as máscaras usadas pelos Irmãos Metralha. O tanque tem recortes esculpidos que permitem um perfeito encaixe dos joelhos e leva apenas 14 litros. O banco é anatômico e mais macio que o da maioria das Yamaha, mas a seção do garupa é mínima."
                     },
                     {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
                         "type": "image",
                         "content": "https://s2.glbimg.com/-mNLY-uNUDj_R7FqI4rf5k_1Cm0=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/img_7493.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -931,19 +831,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "O painel discreto está léguas atrás do que vimos na CB 1.000R. Mas só peca pelo design, pois traz o necessário: indicadores de marcha e combustível, modo de pilotagem selecionado, conta-giros, hodômetros total e parcial, média de consumo, consumo de combustível instantâneo, contagem regressiva de quilometragem na “reserva”, temperaturas da água, do radiador e do ar de admissão, luzes de checagem do quickshifter e indicadores de modo do controle de tração."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/6dA7CIhUhjket0oW64yoshI0X5U=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/img_7495.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -959,14 +851,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "O resultado é uma pilotagem que exige muito cuidado quando a condução é esportiva, mas que curiosamente é bem fácil quando se está no modo civilizado. Ao contrário do que esperávamos, a MT-09 é dócil no trânsito."
                     },
                     {
@@ -979,10 +863,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "É instigante. A vontade é de torcer o cabo e escutar o alien que mora ali dentro berrar como se estivesse ferido de morte, mas isso implica em quase sair voando. Em comparação ao quatro-em-linha, o tricilíndrico tem menos peças móveis e um conjunto interno mais leve, o que resulta em respostas mais rápidas."
                     },
                     {
@@ -992,10 +872,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/t8nVD9nnWCcy10aOMVXncozhthc=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/img_7490.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1026,16 +902,8 @@
                         "content": "https://revistaautoesporte.globo.com/testes/noticia/2019/06/teste-yamaha-mt-03-anda-forte-e-vende-mais-que-bmw-g-310r-kawasaki-z300-abs-e-honda-cb-500f.html"
                     },
                     {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
                         "type": "image",
                         "content": "https://s2.glbimg.com/DDde0F4zEq4nAdYDE0XyAe7Edlw=/620x413/e.glbimg.com/og/ed/f/original/2019/08/06/img_7491.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1107,10 +975,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A Ford atualizou a tabela de preços da linha 2020 do EcoSport, e apontou reduções significativas em todas as versões - os abatimentos chegam a R$ 9.300. A queda nos preços é reflexo das baixas vendas no ano, que acumulam 17.963 unidades até o final de julho."
                     },
                     {
@@ -1124,10 +988,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/oCVAoJIphnrrEKoB-nv9iQ54iAw=/620x413/e.glbimg.com/og/ed/f/original/2019/03/06/e_.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1147,10 +1007,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A versão Titanium Plus 1.5 com câmbio automático passou de R$ 100.890 para R$ 92.990, tendo a mesma redução de R$ 7.900. Vale ressaltar que esta é a única comercializada sem estepe na traseira e que usa a tecnologia de pneus run-flat."
                     },
                     {
@@ -1160,10 +1016,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/bb3o-kTE23bRbOse1CQtGKMH_qM=/620x413/e.glbimg.com/og/ed/f/original/2018/01/29/ecosportstorm_2.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1203,10 +1055,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A Hyundai produz mais de 40 modelos em todo o mundo. Apesar da vasta gama de veículos, o Brasil só recebe oito carros do time sul-coreano."
                     },
                     {
@@ -1227,14 +1075,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Chegou ao mercado coreano em 2017 e foi pensado especialmente para a Europa, com o objetivo de liderar as vendas de marcas asiáticas no continente. Em Portugal é chamado Kauai e, na China, Encino."
                     },
                     {
@@ -1244,10 +1084,6 @@
                     {
                         "type": "link",
                         "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/05/o-hyundai-kona-iron-man-foi-feito-para-fas-da-marvel-e-do-homem-de-ferro.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1264,14 +1100,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/4h-Wp1CMyFRK885DZ3Kpj0r2OZs=/e.glbimg.com/og/ed/f/original/2019/08/02/hyundai-ioniq.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1307,14 +1135,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Assim como a Toyota, a Hyundai também possui um veículo movido a células de hidrogênio. O modelo faz parte do segmento “Fuel Cell” da montadora e custa cerca de R$ 135 mil na Coreia, com isenções."
                     },
                     {
@@ -1324,10 +1144,6 @@
                     {
                         "type": "link",
                         "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/04/depois-de-incentivar-os-eletricos-china-quer-100-mil-carros-abastecidos-por-hidrogenio-nas-ruas-ate-2025.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1355,14 +1171,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Na Europa o modelo é forte concorrente do Volkswagen up!. Tem conceito de carro barato, portanto não é alvo de adereços muito luxuosos e tem pegada mais urbana."
                     },
                     {
@@ -1383,10 +1191,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Seu porta-malas não é dos maiores: tem 256 litros, mas pode chegar aos 1.202 litros com os bancos traseiros rebatidos."
                     },
                     {
@@ -1396,14 +1200,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/OWfa9q22sCJdZJsxolIW3IyB4dg=/e.glbimg.com/og/ed/f/original/2019/08/02/hyundai-venue.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1435,14 +1231,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "O SUV grandalhão está com o passaporte carimbado para estrear em território brasileiro. Um leitor da Autoesporte já flagrou o carro camuflado em São Paulo."
                     },
                     {
@@ -1471,23 +1259,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "O i40 foi apresentado no Salão de Barcelona em 2011 na versão perua e sedã. Sua frente tem uma grade larga que abriga o logotipo da marca e a placa, além de luzes de neblina de LED nas laterais. Os faróis são alongados e seguem o desenho do capô."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/radDIITH14T-NR_zaKjcUU2CC68=/e.glbimg.com/og/ed/f/original/2019/08/02/i40sedan.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1503,14 +1279,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Atualmente em sua segunda geração, o i20 foi reestilizado no ano passado. Traz linhas aerodinâmicas, grade em cascata e parachoque com aplicação de luzes de LED."
                     },
                     {
@@ -1519,19 +1287,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Vendido na Índia e na Europa, o modelo tem carrocerias hatchback e cupê. Ambas são movidas por motores 1.1 ou 1.4 a diesel, ou 1.0. 1.2 e 1.25 a gasolina."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/v_mdNfut4HkCB4JRySAkoGTYj-c=/e.glbimg.com/og/ed/f/original/2019/08/02/i20elite_b2mADLE.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1544,14 +1304,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/hC5RohsxeyL3TQs0qUyGSfJOVRw=/e.glbimg.com/og/ed/f/original/2019/08/02/xcent.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1572,18 +1324,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/_KNoNt-p1BuZ0zBWbdCEKoruUyQ=/e.glbimg.com/og/ed/f/original/2019/08/02/hyundaieon.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1611,14 +1351,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Comercializada na Coreia, no Oriente Médio, na Ásia e em alguns países da Europa, a van H350 (conhecida em alguns países sob a alcunha Solati) foi revelada no Salão de Hannover de 2014, na Alemanha."
                     },
                     {
@@ -1643,10 +1375,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Acompanha tudo de Autoesporte? Agora você pode ler as edições e matérias exclusivas no Globo Mais, o app com conteúdo para todos os momentos do seu dia. Baixe agora!"
                     },
                     {
@@ -1667,10 +1395,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A venda de veículos novos no Brasil continuou com saldo positivo em julho. A alta foi de 11,4% em relação ao mesmo mês de 2018, com 232.243 emplacamentos ante 208.485, de acordo com a Federação Nacional da Distribuição de Veículos Automotores (Fenabrave)."
                     },
                     {
@@ -1684,10 +1408,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/6Qef74KGjhNWiR4Dw_Vo4DJg7cw=/620x413/e.glbimg.com/og/ed/f/original/2018/05/10/hyundai-hb20-2019_1.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1711,10 +1431,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "No topo do ranking, o Chevrolet Onix praticamente já sacramentou seu quinto ano consecutivo como o carro mais vendido do ano. O hatch emplacou 20.071 modelos em julho, mais que o dobro do segundo colocado, o Hyundai HB20."
                     },
                     {
@@ -1735,27 +1451,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "2º) Hyundai HB20 — 9.205 unidades"
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/99jVXcbbHYka8fM7po-xZYKe0OU=/620x413/e.glbimg.com/og/ed/f/original/2018/01/22/poloxargoxhb20-7.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1767,27 +1467,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "4º) Chevrolet Prisma — 8.377 unidades"
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/V9NkEOvpz5I5hjS3tQ3nK1tM-2o=/620x413/e.glbimg.com/og/ed/f/original/2016/07/23/chevrolet_onix_prisma_autoesporte_46_1.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1803,10 +1487,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "6º) Volkswagen Gol — 7.275 unidades"
                     },
                     {
@@ -1816,10 +1496,6 @@
                     {
                         "type": "text",
                         "content": "Atualmente o Gol está em 6° no geral, com 45.578 vendas (Foto: Fabio Aro/Autoesporte)"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1835,14 +1511,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "8º) Fiat Argo — 6.610 unidades"
                     },
                     {
@@ -1851,43 +1519,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "9º) Fiat Toro — 6.212 unidades"
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/JP2tjESQMqi04kIeyPPQBgJia6k=/620x413/e.glbimg.com/og/ed/f/original/2018/08/17/imagem.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1903,10 +1539,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "11º) Jeep Compass — 6.171 unidades"
                     },
                     {
@@ -1916,14 +1548,6 @@
                     {
                         "type": "text",
                         "content": "Compass vendeu 34.204 carros no ano e ocupou o 12° no geral (Foto: Divulgação)"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1939,14 +1563,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "13º) Jeep Renegade —5.790 unidades"
                     },
                     {
@@ -1959,31 +1575,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "14º) Hyundai Creta —5.307 unidades"
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/V0rhnYjjq4LoIVRCPXmlvz-oM_w=/620x413/e.glbimg.com/og/ed/f/original/2019/07/02/smart_01.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -1995,22 +1591,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "16º) Fiat Mobi — 4.702 unidades"
                     },
                     {
@@ -2019,35 +1599,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "17º) Ford Ka Sedan — 4.572 unidades"
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/HlXgheZ3xb4LlicsDBGqk2mjhsM=/620x413/e.glbimg.com/og/ed/f/original/2018/10/25/k_.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -2063,14 +1619,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "19º) Toyota Hilux — 3.855 unidades"
                     },
                     {
@@ -2083,14 +1631,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "20º) Volkswagen Virtus — 3.811 unidades"
                     },
                     {
@@ -2100,14 +1640,6 @@
                     {
                         "type": "text",
                         "content": "Virtus também está em 20° no geral, com 25.775 vendas (Foto: divulgação)"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -2131,10 +1663,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Enquanto a indústria continua seus esforços para colocar os carros autônomos na rua e pesquisadores se questionam sobre a ética da tecnologia, os legisladores dos Estados Unidos não querem ficar para trás na discussão."
                     },
                     {
@@ -2144,10 +1672,6 @@
                     {
                         "type": "link",
                         "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/05/editarcarros-autonomos-podem-melhorar-transito-em-ate-35.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -2206,16 +1730,8 @@
                         "content": "https://revistaautoesporte.globo.com/Videos/noticia/2018/10/video-por-que-honda-cg-vende-tanto.html"
                     },
                     {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
                         "type": "image",
                         "content": "https://s2.glbimg.com/Ylo5WEk5gbaQqMsmvj1Qqf0nGT0=/620x413/e.glbimg.com/og/ed/f/original/2019/07/30/harley-fat-bob_materia.png"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -2287,10 +1803,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A Dodge criou uma campanha inusitada nos Estados Unidos para os esportivos Charger, Challenger e o utilitário Durango, todos na linha 2019."
                     },
                     {
@@ -2304,10 +1816,6 @@
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/H2oMHH5yPhECdYX_X0ekjr5cowc=/620x413/e.glbimg.com/og/ed/f/original/2019/08/02/dg019_046chr2329c4rsjl24s56e3btg4pteu.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -2327,19 +1835,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "“Desde que trouxemos o Charger e o Challenger ao mercado, a Dodge colocou 485 milhões de cavalos de potência nas mãos de nossos leais entusiastas. O objetivo é elevar esse número para meio bilhão de cavalos até o final deste ano”, afirmou o executivo."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/2vkRr_88JJTPBJ7vEwgFZn9RJ00=/620x413/e.glbimg.com/og/ed/f/original/2019/08/02/dg019_048du9sdfqcndt9shue20c3f71biljb.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -2395,10 +1895,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Exposta no Salão do Automóvel de São Paulo ano passado, a nova geração da RAM 2500 já foi flagrada por aqui."
                     },
                     {
@@ -2415,10 +1911,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A RAM prometeu importar a 2500, já no seu lançamento, no Salão de Detroit em janeiro deste ano. O modelo vendido atualmente adota o motor 6.7 Cummins turbodiesel de até 310 cavalos."
                     },
                     {
@@ -2427,23 +1919,11 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "A placa identifica que o modelo vem de Betim (MG), sede da FCA Group, da qual a RAM é subsidiária."
                     },
                     {
                         "type": "image",
                         "content": "https://s2.glbimg.com/8A2YIyMEmzjS_6YA-pmkYuP7wHs=/620x413/e.glbimg.com/og/ed/f/original/2019/08/02/img-20190726-wa0018.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
                     },
                     {
                         "type": "text",
@@ -2463,10 +1943,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Em São Paulo, uma nova peça se adiciona ao mundo do compartilhamento. A BeepBeep, startup de compartilhamento de carros elétricos, começou a operar na cidade nesta semana, com uma frota pequena e um plano ambicioso. Inicialmente com 10 veículos, ela quer chegar a 300 até o fim do ano que vem."
                     },
                     {
@@ -2483,18 +1959,6 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Para pegar um carro da empresa, é preciso baixar o aplicativo e fazer um cadastro. Com a conta liberada, a reserva do carro é feita e o cliente tem até 30 minutos para retirá-lo em um dos estacionamentos parceiros da startup. O próprio app é usado para ligar o veículo."
                     },
                     {
@@ -2503,143 +1967,7 @@
                     },
                     {
                         "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
                         "content": "Não há restrição de rodagem, mas o motorista deve se responsabilizar em deixar o veículo em um dos estacionamentos habilitados. Caso a recarga da bateria seja necessária, o usuário deve procurar um posto de recarga da startup ou conveniado. O aluguel do carro custa R$ 4,90 + R$ 0,60 por minuto de utilização — o valor do minuto cai conforme o tempo de rodagem aumenta."
-                    },
-                    {
-                        "type": "text",
-                        "content": "Acompanha tudo de Autoesporte? Agora você pode ler as edições e matérias exclusivas no Globo Mais, o app com conteúdo para todos os momentos do seu dia. Baixe agora!"
-                    },
-                    {
-                        "type": "link",
-                        "content": "https://globomais.com.br/"
-                    }
-                ]
-            }
-        },
-        {
-            "item": {
-                "title": "VW Virtus começa a ser vendido no México em versão que não existe no Brasil",
-                "link": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/08/vw-virtus-comeca-ser-vendido-no-mexico-em-versao-que-nao-existe-no-brasil.html",
-                "description": [
-                    {
-                        "type": "image",
-                        "content": "https://s2.glbimg.com/BFCxlA-hyR7dowcPPodgW7zouZM=/620x413/e.glbimg.com/og/ed/f/original/2018/03/02/volkswagen-virtus.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": "A Volkswagen anunciou o início das vendas do Virtus no México. É o décimo mercado a receber o modelo fabricado no Brasil – ele já é oferecido em Argentina, Chile, Colômbia, Equador, Peru, Paraguai, Uruguai, Curaçao e Costa Rica."
-                    },
-                    {
-                        "type": "text",
-                        "content": "O sedã estreia no país na versão Comfortline, mas equipada com motor 1.6 MSI, que rende 117 cv e 16,5 kgfm de torque com etanol e 110 cv e 15,8 kgfm com gasolina, além de opção de câmbio manual de cinco marchas ou automático de seis. No Brasil, a configuração está restrita ao motor 1.0 turbo de 128 cv/116 cv e transmissão automática."
-                    },
-                    {
-                        "type": "image",
-                        "content": "https://s2.glbimg.com/mrinJD_edu0CJSl4xb-VmKTXKYo=/620x413/e.glbimg.com/og/ed/f/original/2018/03/02/volkswagen-virtus-traseira.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": "Desde o seu lançamento, em janeiro de 2018, já foram vendidas mais de 64 mil unidades do Virtus, sendo cerca de 17,4 mil delas destinadas a outros mercados. É o terceiro veículo mais exportado pela Volkswagen do Brasil."
-                    },
-                    {
-                        "type": "text",
-                        "content": "Por aqui, o Virtus também não faz feio nas vendas. Neste ano, o modelo já emplacou quase 26 mil unidades de janeiro a julho e é o 20º colocado no ranking geral. Entre os sedãs compactos, fica na terceira posição, atrás de Chevrolet Prisma e Ford Ka Sedan."
-                    },
-                    {
-                        "type": "text",
-                        "content": "Acompanha tudo de Autoesporte? Agora você pode ler as edições e matérias exclusivas no Globo Mais, o app com conteúdo para todos os momentos do seu dia. Baixe agora!"
-                    },
-                    {
-                        "type": "link",
-                        "content": "https://globomais.com.br/"
-                    },
-                    {
-                        "type": "link",
-                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/05/volkswagen-virtus-2020-ficou-mais-seguro-com-esp-porem-preco-aumentou.html"
-                    },
-                    {
-                        "type": "link",
-                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/02/qual-seda-comprar-vw-jetta-basico-virtus-highline-completao.html"
-                    },
-                    {
-                        "type": "link",
-                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/05/volkswagen-polo-e-virtus-gts-aparecem-sem-disfarces.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    }
-                ]
-            }
-        },
-        {
-            "item": {
-                "title": "Motor 7.3 V8 da Ford Série F entrega 430 cv e muita disposição para o trabalho",
-                "link": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/08/motor-73-v8-da-ford-serie-f-entrega-430-cv-e-muita-disposicao-para-o-trabalho.html",
-                "description": [
-                    {
-                        "type": "image",
-                        "content": "https://s2.glbimg.com/VBI8PYvwZu2v7fgtUAQ5as3qBgU=/620x413/e.glbimg.com/og/ed/f/original/2019/08/01/20f250-superdutytremor_10.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": "Meses após apresentar a linha 2020 da Série F Super Duty renovada, a Ford revelou os dados técnicos do 7.3 V8 a gasolina, novidade na picape que substitui o antigo 6.8 V10. O motor entrega 430 cv de potência a 5.500 rpm e torque de 65,7 kgfm a 4.000 giros."
-                    },
-                    {
-                        "type": "text",
-                        "content": "“O 7.3 foi desenvolvido para ter máxima durabilidade em ambientes mais severos, dado que nossos clientes vivem e trabalham nessas condições todos os dias”, afirma Joel Beltramo, gerente de motores V8 a gasolina da Ford."
-                    },
-                    {
-                        "type": "link",
-                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/07/ford-ranger-e-registrada-na-nova-versao-aventureira-storm.html"
-                    },
-                    {
-                        "type": "link",
-                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/07/video-ford-ranger-2020-reestilizada-freia-sozinha-e-le-placas-na-rua.html"
-                    },
-                    {
-                        "type": "link",
-                        "content": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/06/autocast-7-nova-strada-ranger-2020-e-picapes-mais-legais-que-vem-por-ai.html"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": "“Esse motor tem o maior deslocamento volumétrico de sua categoria e foi criado para oferecer melhorias em áreas fundamentais como potência, durabilidade, facilidade de manutenção e custos totais de operação”, completa."
-                    },
-                    {
-                        "type": "image",
-                        "content": "https://s2.glbimg.com/vbrFENljXPzRY9TkVPFrci-bqLU=/620x413/e.glbimg.com/og/ed/f/original/2019/08/01/2019-f-350-xlt-.jpg"
-                    },
-                    {
-                        "type": "text",
-                        "content": ""
-                    },
-                    {
-                        "type": "text",
-                        "content": "Por ser relativamente compacto, ainda mais se comparado ao V8 DOHC da própria Ford, o novo propulsor poderia até ser adaptado em modelos como Mustang e F-150, mas a montadora afirma que 7.3 foi criado essencialmente para o trabalho pesado."
-                    },
-                    {
-                        "type": "text",
-                        "content": "Até a versão F-600, o 7.3 V8 será aliado a uma nova transmissão automática de 10 marchas desenvolvida para condições severas, mas com foco na economia de combustível. As demais, F-650 e F-750 manterão o câmbio de seis marchas."
                     },
                     {
                         "type": "text",
