@@ -30,7 +30,7 @@ coverage html &#10140; will create an html report that will be saved in the fold
     "feed": [
         {
             "item": {
-                "title": "Um avi�o ca�a cl�ssico com motor V8 de Chevrolet Corvette",
+                "title": "Um avião caça clássico com motor V8 de Chevrolet Corvette",
                 "link": "https://revistaautoesporte.globo.com/Noticias/noticia/2019/08/um-aviao-caca-classico-com-motor-v8-de-chevrolet-corvette.html",
                 "description": [
                     {
@@ -39,11 +39,11 @@ coverage html &#10140; will create an html report that will be saved in the fold
                     },
                     {
                         "type": "text",
-                        "content": "O Supermarine Spitfire foi a grande estrela da Batalha da Gr� Bretanha, conflito da Segunda Guerra Mundial que durou de julho a outubro de 1940. Foi o primeiro racha entre os brit�nicos e os alem�es, que massacraram a Inglaterra com bombardeios intensos. E tamb�m a primeira batalha lutada apenas por avi�es."
+                        "content": "O Supermarine Spitfire foi a grande estrela da Batalha da Grã Bretanha, conflito da Segunda Guerra Mundial que durou de julho a outubro de 1940. Foi o primeiro racha entre os britânicos e os alemães, que massacraram a Inglaterra com bombardeios intensos. E também a primeira batalha lutada apenas por aviões."
                     },
                     {
                         "type": "text",
-                        "content": "Embora o Hawker Hurricane tenha sido vital no conflito, foi o rec�m-lan�ado e mais r�pido Spitfire que ganhou a fama e era at� mais reconhecido pela popula��o no solo, talvez pelo seu desenho singular, que inclui asas com pontas el�pticas. Eles foram o terror dos Messerschmitt BF 109E."
+                        "content": "Embora o Hawker Hurricane tenha sido vital no conflito, foi o recém-lançado e mais rápido Spitfire que ganhou a fama e era até mais reconhecido pela população no solo, talvez pelo seu desenho singular, que inclui asas com pontas elípticas. Eles foram o terror dos Messerschmitt BF 109E."
                     },
                     {
                         "type": "link",
@@ -63,11 +63,11 @@ coverage html &#10140; will create an html report that will be saved in the fold
                     },
                     {
                         "type": "text",
-                        "content": "A popularidade n�o desapareceu ao longo do tempo. Tanto que uma empresa brit�nica, batizada oportunisticamente como Supermarine, desenvolveu uma r�plica moderna do Spitfire."
+                        "content": "A popularidade não desapareceu ao longo do tempo. Tanto que uma empresa britânica, batizada oportunisticamente como Supermarine, desenvolveu uma réplica moderna do Spitfire."
                     },
                     {
                         "type": "text",
-                        "content": "Como toda r�plica, avi�o n�o � exatamente como o original, uma vez que a sua escala em rela��o ao ca�a chega a 90%, no m�ximo. � algo bem perto, o que n�o d� aquela impress�o de aeronave amadora, por mais que seja vendido em kits para serem montados.\n\tBatizado como MK26B, o modelo maior era acompanhado do MK26 (80% do tamanho) e do MK25 (75% da escala), ambos fora de linha."
+                        "content": "Como toda réplica, avião não é exatamente como o original, uma vez que a sua escala em relação ao caça chega a 90%, no máximo. É algo bem perto, o que não dá aquela impressão de aeronave amadora, por mais que seja vendido em kits para serem montados.\n\tBatizado como MK26B, o modelo maior era acompanhado do MK26 (80% do tamanho) e do MK25 (75% da escala), ambos fora de linha."
                     },
                     {
                         "type": "image",
@@ -75,11 +75,11 @@ coverage html &#10140; will create an html report that will be saved in the fold
                     },
                     {
                         "type": "text",
-                        "content": "Claro que a diferen�a de tamanho n�o � a �nica altera��o. O Spitfire mirim tem motor bem diferente daqueles Rolls-Royce Merlin ou Griffo, e aposta em propulsor de autom�vel. Os menores MK26 e MK25 podiam vir com o V6 3.5 da Isuzu de 253 cv, mas o MK26B carrega o mesmo LS2 V8 6.0 do antigo Corvette, n�o muito diferente do propulsor utilizado pelo Camaro."
+                        "content": "Claro que a diferença de tamanho não é a única alteração. O Spitfire mirim tem motor bem diferente daqueles Rolls-Royce Merlin ou Griffo, e aposta em propulsor de automóvel. Os menores MK26 e MK25 podiam vir com o V6 3.5 da Isuzu de 253 cv, mas o MK26B carrega o mesmo LS2 V8 6.0 do antigo Corvette, não muito diferente do propulsor utilizado pelo Camaro."
                     },
                     {
                         "type": "text",
-                        "content": "Dado o menor tamanho e peso, aliviado tamb�m pela aus�ncia de armas ou blindagem, o Spitfire n�o faz feio com o seu oito cilindros de 436 cv, capaz de lev�-lo al�m dos 400 km/h.� Sem falar que faz manobras com for�as que chegam a at� seis gravidades. E tem autonomia de mais de 1.000 km, perfeito para patrulhar o Canal da Mancha por horas."
+                        "content": "Dado o menor tamanho e peso, aliviado também pela ausência de armas ou blindagem, o Spitfire não faz feio com o seu oito cilindros de 436 cv, capaz de levá-lo além dos 400 km/h.  Sem falar que faz manobras com forças que chegam a até seis gravidades. E tem autonomia de mais de 1.000 km, perfeito para patrulhar o Canal da Mancha por horas."
                     },
                     {
                         "type": "image",
@@ -87,11 +87,11 @@ coverage html &#10140; will create an html report that will be saved in the fold
                     },
                     {
                         "type": "text",
-                        "content": "Ainda que n�o consigam perseguir os Supermarines mais avan�ados da Segunda Guerra, com motores Rolls-Royce V12 de at� 37 litros e mais de 2.300 cv e capacidade de ultrapassar os 600 km/h, as r�plicas s�o r�pidas e t�m uma vantagem que o Spitfire original n�o tinha: inje��o de gasolina. Os ca�as do passado ainda contavam com carburador e levavam pau do Messerschmitt, com inje��o direta e capaz de fazer mergulhos vertiginosos sem medo de ficar sem combust�vel, enquanto o avi�o brit�nico tinha carburador e lidava com o problema de afogamento nesses manobras."
+                        "content": "Ainda que não consigam perseguir os Supermarines mais avançados da Segunda Guerra, com motores Rolls-Royce V12 de até 37 litros e mais de 2.300 cv e capacidade de ultrapassar os 600 km/h, as réplicas são rápidas e têm uma vantagem que o Spitfire original não tinha: injeção de gasolina. Os caças do passado ainda contavam com carburador e levavam pau do Messerschmitt, com injeção direta e capaz de fazer mergulhos vertiginosos sem medo de ficar sem combustível, enquanto o avião britânico tinha carburador e lidava com o problema de afogamento nesses manobras."
                     },
                     {
                         "type": "text",
-                        "content": "Para se aproximar do avi�o cl�ssico, � poss�vel instalar imita��es dos canh�es autom�ticos de 20 mm que lotavam as asas do original, mas nada que fa�a justi�a ao nome do original (Cospe-fogo), felizmente."
+                        "content": "Para se aproximar do avião clássico, é possível instalar imitações dos canhões automáticos de 20 mm que lotavam as asas do original, mas nada que faça justiça ao nome do original (Cospe-fogo), felizmente."
                     },
                     {
                         "type": "image",
@@ -99,7 +99,7 @@ coverage html &#10140; will create an html report that will be saved in the fold
                     },
                     {
                         "type": "text",
-                        "content": "Em festivais como o de Velocidade de Goodwood, o Supermarine � idolatrado at� hoje.�At� mesmo a Ford embarcou no saudosismo no Spitfire: a rival norte-americana fez uma edi��o especial do Mustang com a mesma padronagem dos ca�as da Batalha da Gr�-Bretanha para o evento brit�nico. � at� curioso, uma vez que uma das fontes do batismo do esportivo foi justamente o ca�a North American P-51 Mustang, outra estrela da Segunda Guerra."
+                        "content": "Em festivais como o de Velocidade de Goodwood, o Supermarine é idolatrado até hoje. Até mesmo a Ford embarcou no saudosismo no Spitfire: a rival norte-americana fez uma edição especial do Mustang com a mesma padronagem dos caças da Batalha da Grã-Bretanha para o evento britânico. É até curioso, uma vez que uma das fontes do batismo do esportivo foi justamente o caça North American P-51 Mustang, outra estrela da Segunda Guerra."
                     },
                     {
                         "type": "link",
@@ -107,11 +107,11 @@ coverage html &#10140; will create an html report that will be saved in the fold
                     },
                     {
                         "type": "text",
-                        "content": "O V8 Chevrolet j� foi utilizado por outras aeronaves, inclusive, um helic�ptero: o Vertical Hummingbird, vendido como kit e lan�ado em 1991. Por�m, o grande barato � ver um borbulhante oito cilindros embaixo do enorme �cap�� de um ca�a cl�ssico. Gravado em v�deo em, um Spitfire passa em rasante com um ru�do grave e caracter�stico. Um verdadeiro muscle plane, por assim dizer."
+                        "content": "O V8 Chevrolet já foi utilizado por outras aeronaves, inclusive, um helicóptero: o Vertical Hummingbird, vendido como kit e lançado em 1991. Porém, o grande barato é ver um borbulhante oito cilindros embaixo do enorme “capô” de um caça clássico. Gravado em vídeo em, um Spitfire passa em rasante com um ruído grave e característico. Um verdadeiro muscle plane, por assim dizer."
                     },
                     {
                         "type": "text",
-                        "content": "Acompanha tudo de Autoesporte? Agora voc� pode ler as edi��es e mat�rias exclusivas no Globo Mais, o app com conte�do para todos os momentos do seu dia. Baixe agora!"
+                        "content": "Acompanha tudo de Autoesporte? Agora você pode ler as edições e matérias exclusivas no Globo Mais, o app com conteúdo para todos os momentos do seu dia. Baixe agora!"
                     },
                     {
                         "type": "link",
